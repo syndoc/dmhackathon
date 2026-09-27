@@ -1,0 +1,6 @@
+{
+  "name": "Social X-Ray",
+  "description": "Analyze team meeting dynamics and reveal observable interaction patterns with an AI-powered visual X-Ray.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
